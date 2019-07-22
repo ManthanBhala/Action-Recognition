@@ -41,20 +41,20 @@ Gesture videos are converted to sequence of frames which are human segmented. Em
 
 *    Convert video to frames
     
-    [Video to Frame](/notebooks/video-to-frame_fps.py)
+     [Video to Frame](/notebooks/video-to-frame_fps.py)
     
 *    Augment the data.
     
-    [Augmentation](/notebooks/data_aug.ipynb)
+     [Augmentation](/notebooks/data_aug.ipynb)
     
 *    Apply human segmentation on the data.
     
-    [Human Segmentation](/notebooks/human_segmentation.ipynb)
+     [Human Segmentation](/notebooks/human_segmentation.ipynb)
 
 *    Run jupyter notebook
     
-    * [Single Gesture Testing](/notebooks/single_gesture_testing.ipynb) for single gestures.
-    * [Pipeline](/pipeline/pipeline.ipynb) for multiple gestures with marker.
+     * [Single Gesture Testing](/notebooks/single_gesture_testing.ipynb) for single gestures.
+     * [Pipeline](/pipeline/pipeline.ipynb) for multiple gestures with marker.
 
 
 ## Training
