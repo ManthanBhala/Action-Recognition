@@ -8,7 +8,7 @@ There is a need of a method or an application that can recognize sign language g
 ## Problem Statement
 
 A classification Model which takes less memory and account for gesture videos which contains sequence of images. Trained marker to distinguish performing action for streamline inference.
-![GitHub Logo](/collateral/SIGN LANGUAGE RECOGNITION.jpg)
+![GitHub Logo](/collateral/SIGN.jpg)
 
 ## Solution
 
@@ -43,7 +43,7 @@ Gesture videos are converted to sequence of frames which are human segmented. Em
 
 *    Convert video to frames
     
-     [Video to Frame](/notebooks/video-to-frame_fps.py)
+     [Video to Frame](/code/video-to-frame_fps.py)
     
 *    Augment the data.
     
