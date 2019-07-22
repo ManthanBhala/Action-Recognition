@@ -45,11 +45,11 @@ Gesture videos are converted to sequence of frames which are human segmented. Em
     
 *    Augment the data.
     
-    [Augmentation](/notebooks/data_aug (1).ipynb)
+    [Augmentation](/notebooks/data_aug.ipynb)
     
 *    Apply human segmentation on the data.
     
-    [Human Segmentation](/notebooks/human_segmentation (1).ipynb)
+    [Human Segmentation](/notebooks/human_segmentation.ipynb)
 
 *    Run jupyter notebook
     
