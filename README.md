@@ -39,11 +39,11 @@ Gesture videos are converted to sequence of frames which are human segmented. Em
 ## Setup
 *    Download the repository
 
-     git clone https://github.com/ManthanBhala/Action-Recognition.git
+    git clone https://github.com/ManthanBhala/Action-Recognition.git
 
 *    Convert video to frames using [Video to Frame](/code/video-to-frame_fps.py)
 
-      python3 code/video-to-frame_fps.py [data_folder] [frame_folder]
+    python3 code/video-to-frame_fps.py [data_folder] [frame_folder]
     
 *    Augment the data.
     
